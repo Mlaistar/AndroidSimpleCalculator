@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <array name="signArray">
+        <item>+</item>
+        <item>/</item>
+        <item>-</item>
+        <item>*</item>
+    </array>
+</resources>
